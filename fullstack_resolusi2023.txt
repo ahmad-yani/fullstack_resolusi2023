@@ -2,4 +2,5 @@ fullstack_resolusi2023
   - Merupakan ruang lingkup yang saling terhubung dari sebuah perencanaan / desain source code belajar pemrograman web secara frontend dan backend di tahun 2023
   - Membuat sebuah web apps di tahun 2023
   - Membuat forum diskusi Web apps
-  
+  - Membuat Desain UI/UX dengan Figma
+ - Membuat Backend dengan laravel
